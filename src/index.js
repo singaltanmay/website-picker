@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Card from "./components/Card";
-import List from "./components/List";
+import List from "./components/List/List";
 
 ReactDOM.render(
   <React.StrictMode>

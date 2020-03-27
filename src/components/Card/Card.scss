@@ -1,0 +1,21 @@
+.tcard {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 8px;
+  min-width: 200px;
+  width: min-content;
+}
+
+.tcard-logo {
+  padding-left: 16px;
+  min-width: 16px;
+  align-self: left;
+  max-width: 100%;
+}
+
+.tcard-button-div {
+  padding-left: 16px;
+  align-self: flex-end;
+  margin-left: 16px;
+  margin-right: 8px;
+}
